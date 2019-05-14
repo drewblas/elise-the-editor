@@ -1,9 +1,17 @@
 <!doctype html>
+<!--
+	Altitude by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+-->
 <html lang="en">
   {{ partial "head" . }}
-  <body class="sans-serif">
-    {{ partial "nav" . }}
-    {{ block "main" . }}{{ end }} 
-    {{ partial "footer" . }} 
+  <body class="is-preload">
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
+      {{ partial "nav" . }}
+      {{ block "main" . }}{{ end }}
+      {{ partial "footer" . }}
+    </div>
   </body>
 </html>

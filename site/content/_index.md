@@ -1,20 +1,42 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
-blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+title: "Elise the Editor"
+subtitle: "Services to accelerate your business"
+first_box:
+    heading: "All the help you need"
+    text: "I'm flexible and ready to help with a wide variety of research, instruction, and writing tasks!"
+second_box:
+    heading: "Professional Experience"
+    text: "Master of the Arts - Instructional DesignMaster of the Arts - Library Science"
+service_lead:
+    heading: "Services"
+    subheading: "There's so many ways I can help you make your content great2!"
+services:
+    - heading: "Find"
+      text: "Research, Annotate, Report"
+      color: accent4
+      icon: fa-camera
+    - heading: "Refine"
+      text: "Proofreading, Editing, Feedback, Rewrites, and more"
+      color: accent3
+      icon: fa-paper-plane
+    - heading: "Teach"
+      text: "Instructional Design, Adobe Capivate, OTHER SOFTWARE"
+      color: accent2
+      icon: "fa-envelope"
+tech_lead:
+      heading: "Technology"
+      subheading: "I have a wealth of experience specifically for building high quality content and training"
+tech_one:
+    heading: "Adobe Captivate"
+    text: "Morbi in sem quis dui placerat ellentesque odio nisi euismod in haretra a, ultricies in, diam ed rcuc consequat lorem ipsum dolor."
+tech_two:
+    heading: "Pellentesque fermentum"
+    text: "Eed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum lorem ipsum blandid sti amet velvelit."
+footer:
+    heading: "Get in touch!"
+    text: "If you're not sure what you need, that's okay! We can start with the basics: research, drafting, and light proofreading.  Then expand into more when you're ready!"
+contact_list:
+    - icon: fa-envelope-o
+      link: mailto:elise@elisetheeditor.com
+      text: elise@elisetheeditor.com
 ---
-
