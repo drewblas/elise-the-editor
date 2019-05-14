@@ -1,9 +1,6 @@
-# [build]
-#   command = "yarn build"
-#   publish = "dist"
+[build]
+  base = "site/"
+  command = "hugo --gc --minify"
+  publish = "site/public/"
 [build.environment]
-  YARN_VERSION = "1.9.4"
-  HUGO_VERSION = "0.46"
-#
-# [context.deploy-preview]
-#   command = "yarn build-preview"
+  HUGO_VERSION = "0.55.5"
