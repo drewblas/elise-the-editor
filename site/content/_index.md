@@ -1,6 +1,8 @@
 ---
 title: Elise the Editor
 subtitle: Services to accelerate your business
+slider:
+  - image: /img/pic01.jpg
 first_box:
   heading: All the help you need
   text: >-
@@ -27,24 +29,25 @@ services:
     heading: Teach
     icon: fa-envelope
     text: 'Instructional Design, Adobe Capivate, OTHER SOFTWARE'
-tech_lead:
+spotlight_lead:
   heading: Technology
   subheading: >-
     I have a wealth of experience specifically for building high quality content
     and training
-tech_one:
-  heading: Adobe Captivate
-  text: >-
-    Adobe Captivate Rocks! Morbi in sem quis dui placerat ellentesque odio nisi
-    euismod in haretra a, ultricies in, diam ed rcuc consequat lorem ipsum
-    dolor.
-tech_two:
-  heading: Pellentesque fermentum
-  text: >-
-    Eed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus
-    metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo
-    quis, gravida id, est. Sed lectus. Praesent elementum lorem ipsum blandid
-    sti amet velvelit.
+spotlights:
+  - image: /img/pic07.jpg
+    heading: Adobe Captivate
+    text: >-
+      Adobe Captivate Rocks! Morbi in sem quis dui placerat ellentesque odio nisi
+      euismod in haretra a, ultricies in, diam ed rcuc consequat lorem ipsum
+      dolor.
+  - image: /img/pic08.jpg
+    heading: Pellentesque fermentum
+    text: >-
+      Eed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus
+      metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo
+      quis, gravida id, est. Sed lectus. Praesent elementum lorem ipsum blandid
+      sti amet velvelit.
 footer:
   heading: Get in touch!
   text: >-
@@ -56,4 +59,3 @@ contact_list:
     link: 'mailto:elise@elisetheeditor.com'
     text: elise@elisetheeditor.com
 ---
-

@@ -28,15 +28,11 @@
           </section>
         </div>
         <div class="slider">
-          <article>
-            <img src="/img/pic01.jpg" alt="" data-position="bottom right" />
-          </article>
-          <article>
-            <img src="/img/pic02.jpg" alt="" data-position="bottom right" />
-          </article>
-          <article>
-            <img src="/img/pic03.jpg" alt="" data-position="top left" />
-          </article>
+          {{ range .Params.slider }}
+            <article>
+              <img src="{{ .image }}" alt="" data-position="bottom right" />
+            </article>
+          {{ end }}
         </div>
       </section>
 
@@ -69,30 +65,22 @@
     <!-- Section -->
       <section class="main accent2">
         <header class="major">
-          <h2>{{.Params.tech_lead.heading}}</h2>
-          <p>{{.Params.tech_lead.subheading}}</p>
+          <h2>{{.Params.spotlight_lead.heading}}</h2>
+          <p>{{.Params.spotlight_lead.subheading}}</p>
         </header>
         <div class="spotlights">
-          <article>
-            <div class="image"><img src="/img/pic07.jpg" alt="" data-position="center" /></div>
-            <div class="content">
-              <h3>{{.Params.tech_one.heading}}</h3>
-              <p>{{.Params.tech_one.text}}</p>
-              <!-- <ul class="actions special">
-                <li><a href="#" class="button primary">More</a></li>
-              </ul> -->
-            </div>
-          </article>
-          <article>
-            <div class="image"><img src="/img/pic08.jpg" alt="" data-position="center" /></div>
-            <div class="content">
-              <h3>{{.Params.tech_two.heading}}</h3>
-              <p>{{.Params.tech_two.text}}</p>
-              <!-- <ul class="actions special">
-                <li><a href="#" class="button primary">More</a></li>
-              </ul> -->
-            </div>
-          </article>
+          {{ range .Params.spotlights }}
+            <article>
+              <div class="image"><img src="{{ .image }}" alt="" data-position="center" /></div>
+              <div class="content">
+                <h3>{{.heading}}</h3>
+                <p>{{.text}}</p>
+                <!-- <ul class="actions special">
+                  <li><a href="#" class="button primary">More</a></li>
+                </ul> -->
+              </div>
+            </article>
+          {{ end }}
         </div>
       </section>
 
