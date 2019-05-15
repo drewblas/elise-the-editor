@@ -30,7 +30,7 @@
         <div class="slider">
           {{ range .Params.slider }}
             <article>
-              <img src="{{ .image }}" alt="" data-position="bottom right" />
+              <img src="{{ .image }}" alt="{{ .alt_image }}" data-position="bottom right" />
             </article>
           {{ end }}
         </div>
@@ -71,7 +71,7 @@
         <div class="spotlights">
           {{ range .Params.spotlights }}
             <article>
-              <div class="image"><img src="{{ .image }}" alt="" data-position="center" /></div>
+              <div class="image"><img src="{{ .image }}" alt="{{ .alt_image }}" data-position="center" /></div>
               <div class="content">
                 <h3>{{.heading}}</h3>
                 <p>{{.text}}</p>

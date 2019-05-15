@@ -2,7 +2,8 @@
 title: Elise the Editor
 subtitle: Services to accelerate your business
 slider:
-  - image: /img/pic01.jpg
+  - image: /img/typing.jpg
+    alt_image: Typing
 first_box:
   heading: All the help you need
   text: >-
@@ -35,13 +36,15 @@ spotlight_lead:
     I have a wealth of experience specifically for building high quality content
     and training
 spotlights:
-  - image: /img/pic07.jpg
+  - image: /img/tablet_by_jemimus.jpg
+    alt_image: By Jemimus
     heading: Adobe Captivate
     text: >-
       Adobe Captivate Rocks! Morbi in sem quis dui placerat ellentesque odio nisi
       euismod in haretra a, ultricies in, diam ed rcuc consequat lorem ipsum
       dolor.
-  - image: /img/pic08.jpg
+  - image: /img/stylus_by_TeroVesalinen_on_Pixabay.jpg
+    alt_image: By TeraVesalinen on Pixabay
     heading: Pellentesque fermentum
     text: >-
       Eed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus
