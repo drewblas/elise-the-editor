@@ -11,7 +11,7 @@ first_box:
 second_box:
   heading: Professional Experience
   text: |-
-    Master of the Arts - Instructional Design and Technology
+    Master of Arts - Instructional Design and Technology
     Master of Science - Library and Information Science
 service_lead:
   heading: Services
