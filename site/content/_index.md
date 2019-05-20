@@ -31,7 +31,9 @@ services:
   - color: accent2
     heading: Teach
     icon: fa-envelope
-    text: 'Instructional Design, Articulate Storyline, Articulate Rise'
+    text: >-
+      Instructional Design, Articulate Storyline, Articulate Rise, online
+      classes, stand-alone trainings
 spotlight_lead:
   heading: Technology
   subheading: >-
