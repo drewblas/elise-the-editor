@@ -3,7 +3,6 @@ title: Elise the Editor
 subtitle: Services to accelerate your business
 slider:
   - image: /img/typing.jpg
-    alt_image: Typing
 first_box:
   heading: All the help you need
   text: >-
@@ -11,12 +10,12 @@ first_box:
     and writing tasks!
 second_box:
   heading: Professional Experience
-  text: >-
-    Master of the Arts - Instructional DesignMaster of the Arts - Library
-    Science
+  text: |-
+    Master of the Arts - Instructional Design
+    Master of the Arts - Library Science
 service_lead:
   heading: Services
-  subheading: There's so many ways I can help you make your content great2!
+  subheading: There's so many ways I can help you make your content great!
 services:
   - color: accent4
     heading: Find
@@ -25,40 +24,33 @@ services:
   - color: accent3
     heading: Refine
     icon: fa-paper-plane
-    text: 'Proofreading, Editing, Feedback, Rewrites, and more'
+    text: 'Proofreading, Editing, Feedback, and more'
   - color: accent2
     heading: Teach
     icon: fa-envelope
-    text: 'Instructional Design, Adobe Capivate, OTHER SOFTWARE'
+    text: 'Instructional Design, Articulate Storyline, Articulate Rise'
 spotlight_lead:
   heading: Technology
   subheading: >-
-    I have a wealth of experience specifically for building high quality content
+    I have a wealth of experience specifically for building high-quality content
     and training
 spotlights:
-  - image: /img/tablet_by_jemimus.jpg
-    alt_image: By Jemimus
-    heading: Adobe Captivate
+  - heading: Articulate Storyline
+    image: /img/tablet_by_jemimus.jpg
     text: >-
-      Adobe Captivate Rocks! Morbi in sem quis dui placerat ellentesque odio nisi
-      euismod in haretra a, ultricies in, diam ed rcuc consequat lorem ipsum
-      dolor.
-  - image: /img/stylus_by_TeroVesalinen_on_Pixabay.jpg
-    alt_image: By TeraVesalinen on Pixabay
-    heading: Pellentesque fermentum
+      I'm skilled in Articulate Storyline to create linear and branched
+      elearning lessons.
+  - heading: Articulate Rise
+    image: /img/stylus_by_TeroVesalinen_on_Pixabay.jpg
     text: >-
-      Eed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus
-      metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo
-      quis, gravida id, est. Sed lectus. Praesent elementum lorem ipsum blandid
-      sti amet velvelit.
+      I use rapid course design to create lessons, newsletters, and more using
+      Articulate Rise.
 footer:
   heading: Get in touch!
   text: >-
     If you're not sure what you need, that's okay! We can start with the basics:
     research, drafting, and light proofreading.  Then expand into more when
     you're ready!
-contact_list:
-  - icon: fa-envelope-o
-    link: 'mailto:elise@elisetheeditor.com'
-    text: elise@elisetheeditor.com
+contact_list: []
 ---
+
