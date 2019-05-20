@@ -13,6 +13,9 @@ second_box:
   text: |-
     Masters of Science - Instructional Design and Technology
     Masters of Science - Library and Information Science
+
+    Seven years teaching at the collegiate level
+    Seven years of elearning and instructional design experience
 service_lead:
   heading: Services
   subheading: There's so many ways I can help you make your content great!
