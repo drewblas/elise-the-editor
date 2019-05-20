@@ -18,29 +18,29 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Image", name: "image", widget: image}]}
           - {label: "first_box", name: first_box, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text", widget: "markdown"}]}
           - {label: "second_box", name: second_box, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text", widget: "markdown"}]}
           - {label: "ServiceLead", name: service_lead, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "SubHeading", name: "subheading", widget: string}]}
           - {label: "Services", name: services, widget: list, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Color", name: "color", widget: text},
-              {label: "icon", name: "icon", widget: text},
-              {label: "Text", name: "text", widget: text}]}
+              {label: "Color", name: "color", widget: string},
+              {label: "icon", name: "icon", widget: string},
+              {label: "Text", name: "text", widget: markdown}]}
           - {label: "SpotlightLead", name: spotlight_lead, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "SubHeading", name: "subheading", widget: string}]}
           - {label: "Spotlights", name: spotlights, widget: list, fields: [
               {label: "Image", name: "image", widget: image},
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: text}]}
+              {label: "Text", name: "text", widget: markdown}]}
           - {label: "Footer", name: footer, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: text}]}
+              {label: "Text", name: "text", widget: markdown}]}
           - {label: "ContactList", name: contact_list, widget: list, fields: [
               {label: "Icon", name: "icon", widget: string},
               {label: "Link", name: "link", widget: string},
-              {label: "Text", name: "text", widget: text}]}
+              {label: "Text", name: "text", widget: markdown}]}
