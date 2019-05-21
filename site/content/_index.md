@@ -12,7 +12,7 @@ second_box:
   heading: Professional Experience
   text: |-
     * Masters of Science - Instructional Design and Technology 
-    * Masters of Science - Library and Information Science
+    * Masters of Science - Library and Information Science 
     * Seven years teaching at the collegiate level
     * Seven years of elearning and instructional design experience
 service_lead:
