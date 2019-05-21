@@ -11,10 +11,10 @@ first_box:
 second_box:
   heading: Professional Experience
   text: |-
-    * Masters of Science - Instructional Design and Technology </br>
-    * Masters of Science - Library and Information Science </br>
-    * Seven years teaching at the collegiate level</br>
-    * Seven years of elearning and instructional design experience</br>
+    * Masters of Science - Instructional Design and Technology 
+    * Masters of Science - Library and Information Science 
+    * Seven years teaching at the collegiate level
+    * Seven years of elearning and instructional design experience
 service_lead:
   heading: Services
   subheading: There's so many ways I can help you make your content great!
